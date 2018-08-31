@@ -1,0 +1,7 @@
+{
+  "name": "Assistant",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
